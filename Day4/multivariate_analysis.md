@@ -15,20 +15,32 @@ Multivariate analysis involves the simultaneous study of relationships between t
 ### 1)Numerical-Numerical Data analysis
 
 
-- **Scatterplot**
-![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day3/cat.png)
-
-- **Barchart:**
-![Categorical Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day3/cat2.png)
-
-- **Barchart:**
-![Categorical Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day3/cat3.png)
+#### **Scatterplot**
+![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Scatter_plot.png)
 
 
-## 3. Numerical Data
 
-- **a.Histogram-> It is used to understand the numerical data distribution**
-![Numerical Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day3/cat4.png)
+#### **Scatterplot for multivariate analysis**
+
+  
+![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Scatter_plot_for_multivariate_analysis.png)
+
+![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Scatter_plot_for_multivariate_analysis2.png)
 
 
-## **Univariate data analysis is a canvas of endless possibilities. By embracing creativity and looking beyond the surface, we can uncover the rich tapestry of stories that variables have to offer.**
+## 2) Numerical-Categorical Data analysis
+
+#### **Barplot**
+![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Bar_plot_for_multivariate_analysis.png)
+
+#### **Boxplot**
+![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Box_plot.png)
+
+## 3) Categorical-Categorical Data analysis
+
+#### **Heatmap**
+![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Heat_map.png)
+  
+
+
+
