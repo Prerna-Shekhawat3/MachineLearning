@@ -1,47 +1,56 @@
 # *Explorartory Data Analysis of Diwali Sales* #
 
+<br>
 
-# Observation1:
-
-Bivariate and multivariate analysis are statistical techniques used to explore and analyze relationships between variables in a dataset. These analyses are fundamental in understanding the interactions and patterns within data, making informed decisions, and drawing meaningful insights.
-
-## Bivariate analysis
-
-Bivariate analysis involves the study of relationships between two variables.Bivariate analysis helps identify patterns, trends, and potential cause-and-effect relationships between two variables
-
-## Multivariate analysis
-
-Multivariate analysis involves the simultaneous study of relationships between three or more variables.Multivariate analysis aims to understand the joint effects, dependencies, and interactions among multiple variables.
-
-## Data-> Numerical and Categorical Data
-### 1)Numerical-Numerical Data analysis
+<br>
 
 
-#### **Scatterplot**
-![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Scatter_plot.png)
+![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day5/Obs1.png)
+# Observation1:Females have spent more amount in sale.
+
+<br>
+
+<br>
 
 
+![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day5/Obs2.png)
 
-#### **Scatterplot for multivariate analysis**
+<br>
 
-  
-![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Scatter_plot_for_multivariate_analysis.png)
+# Observation2: Females of age 26-35 have spent more amount in sale.
 
-![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Scatter_plot_for_multivariate_analysis2.png)
+<br>
 
+![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day5/Obs3.png)
 
-## 2) Numerical-Categorical Data analysis
+<br>
 
-#### **Barplot**
-![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Bar_plot_for_multivariate_analysis.png)
+# Observation3: Uttar Pradesh, Karnataka and Maharasta are the having the highest sales.
 
-#### **Boxplot**
-![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Box_plot.png)
-
-## 3) Categorical-Categorical Data analysis
-
-#### **Heatmap**
-![Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day4/Heat_map.png)
-  
+<br>
 
 
+![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day5/Obs5.png)
+
+<br>
+
+# Observation4: Married Women have spent more than married men.
+
+<br>
+
+
+![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day5/Obs6.png)
+
+<br>
+
+# Observation5: IT Sector,Aviation and Healthcare people have spent more in sale.
+
+<br>
+
+![ Data Visualization](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day5/Obs7.png)
+
+<br>
+
+# Observation6: Food ,clothing and electronics are highest sold product categories.
+
+## *CONCLUSION:26-35 age married women from UP,Maharastra and karnatake working in IT Sector,Healthcare and aviation have bought food ,clothing and electronis*
