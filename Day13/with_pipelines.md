@@ -41,6 +41,4 @@
 
     pipe.fit(X_train,y_train)
 
-![](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day11/alcohol.png)
-in/Day11/both.png)
 
