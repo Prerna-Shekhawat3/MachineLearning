@@ -18,5 +18,10 @@
 
     trf=FunctionTransformer(lambda x:**x)
 
+## *After applying log tranformer data get normaly distributed as seen in the QQ plot.* ##
+
+!(https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day14/After%20applying%20log%20transformer.png)
+
+
 
 
