@@ -19,7 +19,7 @@
     pd.DataFrame({'cols':X_train.columns,'box-cox lambda':trf.lambdas_})
 
 
-!(https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day14/After%20applying%20log%20transformer.png)
+![](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day15/boxcox.png)
 
 
 ## Applying Joe Johnsom
@@ -29,5 +29,5 @@
     X_train_trans=trf2.fit_transform(X_train)
     X_test_trans=trf2.fit_transform(X_test)
 
-!(https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day14/After%20applying%20log%20transformer.png)
+![](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day15/yeojohnson.png)
 
