@@ -58,7 +58,7 @@
 
     accuracy_score(y_pred,y_test)
 
-
+## *Missing Indicator adds a column where it is specified if a column has missing value or not which helps model to understand about the presence of missing value and improves the accuracy of model.* ##
 
 
 
