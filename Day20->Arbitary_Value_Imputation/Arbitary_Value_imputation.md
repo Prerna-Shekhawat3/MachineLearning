@@ -11,10 +11,10 @@
 
 ## *Here ve have imputed 99 ,-1 in Fare and Age column as seen in graph it fits perfectly in Fare but does not fits in Age Column* ##
 
-[Arbitary_value_imp](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day20-%3EArbitary_Value_Imputation/arbitary_value_impute.png)
+![Arbitary_value_imp](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day20-%3EArbitary_Value_Imputation/arbitary_value_impute.png)
 
 
-[Arbitary_value_imp](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day20-%3EArbitary_Value_Imputation/arbitary_value_impute2.png)
+![Arbitary_value_imp](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day20-%3EArbitary_Value_Imputation/arbitary_value_impute2.png)
 
 
 
