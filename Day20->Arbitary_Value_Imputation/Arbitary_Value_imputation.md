@@ -9,8 +9,12 @@
     X_train['fare_99']=X_train['Fare'].fillna(99)
     X_train['fare_minus']=X_train['Fare'].fillna(-1)
 
+## *Here ve have imputed 99 ,-1 in Fare and Age column as seen in graph it fits perfectly in Fare but does not fits in Age Column* ##
 
-[I'm an inline-style link](https://www.google.com)
+[Arbitary_value_imp](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day20-%3EArbitary_Value_Imputation/arbitary_value_impute.png)
+
+
+[Arbitary_value_imp](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day20-%3EArbitary_Value_Imputation/arbitary_value_impute2.png)
 
 
 
