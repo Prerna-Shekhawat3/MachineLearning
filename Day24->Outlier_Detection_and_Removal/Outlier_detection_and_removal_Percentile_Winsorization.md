@@ -8,16 +8,6 @@
 
 # *Technique for outlier detection and removal* #
 
-### ->Z-Score treatment: This is done when data is normally distributed ###
-
-    z-score=(x-mean)/standard deviation
-
-
-### IQR Based Filtering ###
-
-    LowerrLimit=Q1-1.5 x Inter Quartile Range (IQR)
-
-    UpperLimit=Q3 + 1.5 x IQR
 
 ### Percentile method ###
 
@@ -25,7 +15,14 @@
 
     UpperLimit=df.quantile(0.01)
 
+## Outliers in the data 
+![](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day24-%3EOutlier_Detection_and_Removal/Before_Percentile.png)
 
+## After Trimming the ouliers
+![](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day24-%3EOutlier_Detection_and_Removal/After_percentile.png)
+
+## After Capping the data 
+![](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day24-%3EOutlier_Detection_and_Removal/After_capping.png)
 
 
 
