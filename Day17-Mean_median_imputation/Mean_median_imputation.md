@@ -1,7 +1,6 @@
 # *Mean Median Imputaion for numerical columns* #
 
 ### *When data is normally distributed Mean Imputations performs well.* ###
-
 ### *When data is right or left skewed Median Imputation performs wells.* ###
 
 ## *Disadvantege:* ##
