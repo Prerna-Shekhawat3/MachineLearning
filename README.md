@@ -9,3 +9,4 @@
 ## Day:32 ##
 ### 31 Oct 2023-> https://www.kaggle.com/code/prernashekhawat/blood-sugar ###
 > ### Done EDA on blood sugar data and drew insights from it. ###
+> ### Step by step implementation of Gradient Descent ###
