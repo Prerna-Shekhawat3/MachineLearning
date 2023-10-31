@@ -14,3 +14,13 @@
 
 # *Repeat this process to get the value of intercept*
 
+
+# This is how the process goes
+
+![Gradient Descent Step 1](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day31-%3EGradient_Descent/step1.png)
+
+![img](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day31-%3EGradient_Descent/step2.png)
+
+![img](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day31-%3EGradient_Descent/step3.png)
+
+![img](https://github.com/Prerna-Shekhawat3/MachineLearning/blob/main/Day31-%3EGradient_Descent/step4.png)
