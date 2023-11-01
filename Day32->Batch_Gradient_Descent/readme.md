@@ -1,5 +1,6 @@
 # Batch Gradient Descent-> This is the traditinal technique which works well for smaller dataset .
 
+# Here we take arbitary value of m and b to get the correct value.
 ## m=100,b=-120
 
     class GDRegressor:
