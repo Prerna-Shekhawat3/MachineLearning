@@ -17,3 +17,7 @@
 > ### Implementation of Batch Gradient Descent with constant slope to get correct intercept ###
 > ### Implementation of Batch Gradient Descent with arbitary slope and intercept  ###
 
+## Day:34 ##
+### 2 Nov 2023###
+> ### Done EDA on medical insurance data and drew insights from it. ###
+> ### ->https://www.kaggle.com/code/prernashekhawat/black-friday-data-analysis ###
