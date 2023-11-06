@@ -21,3 +21,14 @@
 ### 2 Nov 2023###
 > ### Done EDA on medical insurance data and drew insights from it. ###
 > ### ->https://www.kaggle.com/code/prernashekhawat/black-friday-data-analysis ###
+
+## Day:35 ##
+### 5 Nov 2023###
+> ### Done EDA on Zomato Top Restaurant. ###
+> ### ->https://www.kaggle.com/code/prernashekhawat/zomato-top-restaurant ###
+
+## Day:36 ##
+### 6 Nov 2023###
+> ### Done EDA on US Crimes. ###
+> ### ->https://www.kaggle.com/code/prernashekhawat/us-crime-visualization-and-analysis ###
+
